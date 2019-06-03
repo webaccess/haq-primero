@@ -66,8 +66,8 @@
 //= require caselog
 //= require category
 //= require psychosocial
-//= require compensation
-
+//= require compensation_int
+//= require compensation_fnl
 
 //= require turbolinks
 //= require primero_libs/turbolinks-compatibility
