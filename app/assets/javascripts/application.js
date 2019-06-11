@@ -8,6 +8,7 @@
 //= require plugins/jquery-migrate
 //= require plugins/jquery-ui-1.12.1.custom.min
 //= require plugins/jquery.tmpl.min
+//= require plugins/jquery-ui-1.7.2.custom.min
 
 /**
  * Vendor Libs
@@ -66,8 +67,10 @@
 //= require caselog
 //= require category
 //= require psychosocial
-//= require compensation_int
-//= require compensation_fnl
+//= require compensation
+//= require accused
+
+
 
 //= require turbolinks
 //= require primero_libs/turbolinks-compatibility
