@@ -8,7 +8,6 @@
 //= require plugins/jquery-migrate
 //= require plugins/jquery-ui-1.12.1.custom.min
 //= require plugins/jquery.tmpl.min
-//= require plugins/jquery-ui-1.7.2.custom.min
 
 /**
  * Vendor Libs
@@ -52,7 +51,6 @@
 //= require primero_libs/MaskedPassword
 //= require primero_libs/advanced_search
 
-
 /**
  * Application
  */
@@ -64,12 +62,11 @@
 //= require_tree ./views/management
 //= require_tree ./views
 //= require router
-//= require caselog
 //= require category
 //= require psychosocial
 //= require compensation
 //= require accused
-
+//= require caselog
 
 
 //= require turbolinks
