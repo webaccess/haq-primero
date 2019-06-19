@@ -12,13 +12,20 @@ $(document).ready(function(){
 			var name = $(this).find('input').attr('id'); 			
 			if(name != undefined){
 				if(status == 'Granted') {
-					if(name.indexOf('reasons') != -1){						
+					if((name.indexOf('reasons') != -1)||(name.indexOf('pending') != -1)){						
 						$(this).hide();
 					}else{
 						$(this).show();
 					}					
 				}else if(status == 'Rejected') {				
 					if(name.indexOf('reasons') != -1){
+						$(this).show();
+					}else{
+						$(this).hide();
+					}	
+				}
+				else if(status == 'Pending') {				
+					if(name.indexOf('pending') != -1){
 						$(this).show();
 					}else{
 						$(this).hide();
@@ -44,13 +51,19 @@ $(document).ready(function(){
 			var name = $(this).find('input').attr('id'); 			
 			if(name != undefined){
 				if(status == 'Granted') {
-					if(name.indexOf('reasons') != -1){						
+					if((name.indexOf('reasons') != -1)||(name.indexOf('pending') != -1)){						
 						$(this).hide();
 					}else{
 						$(this).show();
 					}					
 				}else if(status == 'Rejected') {				
 					if(name.indexOf('reasons') != -1){
+						$(this).show();
+					}else{
+						$(this).hide();
+					}	
+				}else if(status == 'Pending') {				
+					if(name.indexOf('pending') != -1){
 						$(this).show();
 					}else{
 						$(this).hide();
