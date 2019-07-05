@@ -1,0 +1,1416 @@
+[
+  {
+    "disabled": false,
+    "full_name": "Ast. Social Worker",
+    "user_name": "primero_cp",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-cp-case-worker"
+    ],
+    "time_zone": "UTC",
+    "locale": "en",
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-04-22T10:12:19.969Z",
+    "created_at": "2019-04-22T08:55:26.719Z",
+    "model_type": "User",
+    "_id": "user-primero-cp"
+  },
+  {
+    "disabled": false,
+    "full_name": "ASW01",
+    "user_name": "asw01",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": null,
+    "role_ids": [
+      "role-cp-case-worker"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:26:00.201Z",
+    "created_at": "2019-07-04T06:26:00.201Z",
+    "model_type": "User",
+    "_id": "user-asw01"
+  },
+  {
+    "disabled": false,
+    "full_name": "ASW02",
+    "user_name": "asw02",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-cp-case-worker"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:29:02.823Z",
+    "created_at": "2019-07-04T06:29:02.823Z",
+    "model_type": "User",
+    "_id": "user-asw02"
+  },
+  {
+    "disabled": false,
+    "full_name": "ASW03",
+    "user_name": "asw03",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-cp-case-worker"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:29:43.581Z",
+    "created_at": "2019-07-04T06:29:43.581Z",
+    "model_type": "User",
+    "_id": "user-asw03"
+  },
+  {
+    "disabled": false,
+    "full_name": "ASW04",
+    "user_name": "asw04",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-cp-case-worker"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:30:17.172Z",
+    "created_at": "2019-07-04T06:30:17.172Z",
+    "model_type": "User",
+    "_id": "user-asw04"
+  },
+  {
+    "disabled": false,
+    "full_name": "ASW05",
+    "user_name": "asw05",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-cp-case-worker"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:30:58.203Z",
+    "created_at": "2019-07-04T06:30:58.203Z",
+    "model_type": "User",
+    "_id": "user-asw05"
+  },
+  {
+    "disabled": false,
+    "full_name": "CDR01",
+    "user_name": "cdr01",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-cp-manager"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T07:13:49.149Z",
+    "created_at": "2019-07-04T07:13:49.149Z",
+    "model_type": "User",
+    "_id": "user-cdr01"
+  },
+  {
+    "disabled": false,
+    "full_name": "CDR02",
+    "user_name": "cdr02",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-cp-manager"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T07:14:20.302Z",
+    "created_at": "2019-07-04T07:14:20.302Z",
+    "model_type": "User",
+    "_id": "user-cdr02"
+  },
+  {
+    "disabled": false,
+    "full_name": "Counsellor",
+    "user_name": "counsellor_cp",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-referral"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-04-22T10:16:59.217Z",
+    "created_at": "2019-04-22T10:07:45.768Z",
+    "model_type": "User",
+    "_id": "user-counsellor-cp"
+  },
+  {
+    "disabled": false,
+    "full_name": "CP Administrator",
+    "user_name": "primero_admin_cp",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "primero_admin_cp@primero.com",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-cp-administrator",
+      "role-cp-manager"
+    ],
+    "time_zone": "UTC",
+    "locale": "en",
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": true,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-05-17T10:07:50.083Z",
+    "created_at": "2019-04-22T08:55:26.493Z",
+    "model_type": "User",
+    "_id": "user-primero-admin-cp"
+  },
+  {
+    "disabled": false,
+    "full_name": "CSLR01",
+    "user_name": "cslr01",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-referral"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:41:30.391Z",
+    "created_at": "2019-07-04T06:41:30.391Z",
+    "model_type": "User",
+    "_id": "user-cslr01"
+  },
+  {
+    "disabled": false,
+    "full_name": "CSLR02",
+    "user_name": "cslr02",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-referral"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:42:15.031Z",
+    "created_at": "2019-07-04T06:42:15.031Z",
+    "model_type": "User",
+    "_id": "user-cslr02"
+  },
+  {
+    "disabled": false,
+    "full_name": "CSLR03",
+    "user_name": "cslr03",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-referral"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:42:50.336Z",
+    "created_at": "2019-07-04T06:42:50.336Z",
+    "model_type": "User",
+    "_id": "user-cslr03"
+  },
+  {
+    "disabled": false,
+    "full_name": "CSLR04",
+    "user_name": "cslr04",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-referral"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:43:33.233Z",
+    "created_at": "2019-07-04T06:43:33.236Z",
+    "model_type": "User",
+    "_id": "user-cslr04"
+  },
+  {
+    "disabled": false,
+    "full_name": "CSLR05",
+    "user_name": "cslr05",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-referral"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:44:24.120Z",
+    "created_at": "2019-07-04T06:44:24.120Z",
+    "model_type": "User",
+    "_id": "user-cslr05"
+  },
+  {
+    "disabled": false,
+    "full_name": "D_LI",
+    "user_name": "d_li",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": null,
+    "role_ids": [
+      "role-cp-manager"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T07:12:08.136Z",
+    "created_at": "2019-07-04T07:12:08.136Z",
+    "model_type": "User",
+    "_id": "user-d-li"
+  },
+  {
+    "disabled": false,
+    "full_name": "D_RME",
+    "user_name": "d_rme",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": null,
+    "role_ids": [
+      "role-cp-manager"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T07:13:01.284Z",
+    "created_at": "2019-07-04T07:13:01.284Z",
+    "model_type": "User",
+    "_id": "user-d-rme"
+  },
+  {
+    "disabled": false,
+    "full_name": "Director LI",
+    "user_name": "director_li",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-cp-manager"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": true,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-04-24T13:29:39.482Z",
+    "created_at": "2019-04-24T13:29:39.482Z",
+    "model_type": "User",
+    "_id": "user-director-li"
+  },
+  {
+    "disabled": false,
+    "full_name": "Director RC",
+    "user_name": "director_rc",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-cp-manager"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": true,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-05-23T12:13:51.221Z",
+    "created_at": "2019-04-22T10:07:46.101Z",
+    "model_type": "User",
+    "_id": "user-director-rc"
+  },
+  {
+    "disabled": false,
+    "full_name": "Director RME",
+    "user_name": "director_rme",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-cp-manager"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-06-25T05:30:06.204Z",
+    "created_at": "2019-05-06T05:25:44.794Z",
+    "model_type": "User",
+    "_id": "user-director-ar"
+  },
+  {
+    "disabled": false,
+    "full_name": "ED",
+    "user_name": "ed",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-cp-manager"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T07:14:55.268Z",
+    "created_at": "2019-07-04T07:14:55.268Z",
+    "model_type": "User",
+    "_id": "user-ed"
+  },
+  {
+    "disabled": false,
+    "full_name": "Lawyer",
+    "user_name": "lawyer_cp",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-lawyer"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-04-22T10:16:44.446Z",
+    "created_at": "2019-04-22T10:07:46.353Z",
+    "model_type": "User",
+    "_id": "user-lawyer-cp"
+  },
+  {
+    "disabled": false,
+    "full_name": "LC01",
+    "user_name": "lc01",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-lawyer"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:44:55.444Z",
+    "created_at": "2019-07-04T06:44:55.444Z",
+    "model_type": "User",
+    "_id": "user-lc01"
+  },
+  {
+    "disabled": false,
+    "full_name": "LC02",
+    "user_name": "lc02",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-lawyer"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:48:20.594Z",
+    "created_at": "2019-07-04T06:48:20.594Z",
+    "model_type": "User",
+    "_id": "user-lc02"
+  },
+  {
+    "disabled": false,
+    "full_name": "LC03",
+    "user_name": "lc03",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-lawyer"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:52:05.577Z",
+    "created_at": "2019-07-04T06:52:05.578Z",
+    "model_type": "User",
+    "_id": "user-lc03"
+  },
+  {
+    "disabled": false,
+    "full_name": "LC04",
+    "user_name": "lc04",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-lawyer"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:52:36.277Z",
+    "created_at": "2019-07-04T06:52:36.277Z",
+    "model_type": "User",
+    "_id": "user-lc04"
+  },
+  {
+    "disabled": false,
+    "full_name": "LC05",
+    "user_name": "lc05",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-lawyer"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:53:11.679Z",
+    "created_at": "2019-07-04T06:53:11.679Z",
+    "model_type": "User",
+    "_id": "user-lc05"
+  },
+  {
+    "disabled": false,
+    "full_name": "LC06",
+    "user_name": "lc06",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-lawyer"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:53:43.121Z",
+    "created_at": "2019-07-04T06:53:43.121Z",
+    "model_type": "User",
+    "_id": "user-lc06"
+  },
+  {
+    "disabled": false,
+    "full_name": "LC07",
+    "user_name": "lc07",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-lawyer"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:54:38.778Z",
+    "created_at": "2019-07-04T06:54:38.778Z",
+    "model_type": "User",
+    "_id": "user-lc07"
+  },
+  {
+    "disabled": false,
+    "full_name": "LC08",
+    "user_name": "lc08",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-lawyer"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:56:55.459Z",
+    "created_at": "2019-07-04T06:56:55.459Z",
+    "model_type": "User",
+    "_id": "user-lc08"
+  },
+  {
+    "disabled": false,
+    "full_name": "LC09",
+    "user_name": "lc09",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-lawyer"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:57:31.736Z",
+    "created_at": "2019-07-04T06:57:31.736Z",
+    "model_type": "User",
+    "_id": "user-lc09"
+  },
+  {
+    "disabled": false,
+    "full_name": "LC10",
+    "user_name": "lc10",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-lawyer"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:58:26.205Z",
+    "created_at": "2019-07-04T06:58:26.205Z",
+    "model_type": "User",
+    "_id": "user-lc10"
+  },
+  {
+    "disabled": false,
+    "full_name": "Research Assistant",
+    "user_name": "primero_ar",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-research-assistant"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": true,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-05-17T10:07:50.450Z",
+    "created_at": "2019-05-06T05:28:15.684Z",
+    "model_type": "User",
+    "_id": "user-primero-ar"
+  },
+  {
+    "disabled": false,
+    "full_name": "RSR01",
+    "user_name": "rsr01",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-research-assistant"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:59:36.848Z",
+    "created_at": "2019-07-04T06:59:36.848Z",
+    "model_type": "User",
+    "_id": "user-rsr01"
+  },
+  {
+    "disabled": false,
+    "full_name": "RSR02",
+    "user_name": "rsr02",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-research-assistant"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T07:00:05.235Z",
+    "created_at": "2019-07-04T07:00:05.235Z",
+    "model_type": "User",
+    "_id": "user-rsr02"
+  },
+  {
+    "disabled": false,
+    "full_name": "Social Worker",
+    "user_name": "primero_cp1",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-gbv-caseworker"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-04-22T10:15:46.418Z",
+    "created_at": "2019-04-22T10:07:46.485Z",
+    "model_type": "User",
+    "_id": "user-primero-cp1"
+  },
+  {
+    "disabled": false,
+    "full_name": "SW01",
+    "user_name": "sw01",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-gbv-caseworker"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:31:43.058Z",
+    "created_at": "2019-07-04T06:31:43.058Z",
+    "model_type": "User",
+    "_id": "user-sw01"
+  },
+  {
+    "disabled": false,
+    "full_name": "SW02",
+    "user_name": "sw02",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-gbv-caseworker"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:32:30.674Z",
+    "created_at": "2019-07-04T06:32:30.674Z",
+    "model_type": "User",
+    "_id": "user-sw02"
+  },
+  {
+    "disabled": false,
+    "full_name": "SW03",
+    "user_name": "sw03",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-gbv-caseworker"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:34:07.190Z",
+    "created_at": "2019-07-04T06:34:07.190Z",
+    "model_type": "User",
+    "_id": "user-sw03"
+  },
+  {
+    "disabled": false,
+    "full_name": "SW04",
+    "user_name": "sw04",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-gbv-caseworker"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:34:40.077Z",
+    "created_at": "2019-07-04T06:34:40.077Z",
+    "model_type": "User",
+    "_id": "user-sw04"
+  },
+  {
+    "disabled": false,
+    "full_name": "SW05",
+    "user_name": "sw05",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-gbv-caseworker"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:35:37.908Z",
+    "created_at": "2019-07-04T06:35:37.908Z",
+    "model_type": "User",
+    "_id": "user-sw05"
+  },
+  {
+    "disabled": false,
+    "full_name": "SW06",
+    "user_name": "sw06",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-gbv-caseworker"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:36:10.208Z",
+    "created_at": "2019-07-04T06:36:10.208Z",
+    "model_type": "User",
+    "_id": "user-sw06"
+  },
+  {
+    "disabled": false,
+    "full_name": "SW07",
+    "user_name": "sw07",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-gbv-caseworker"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:37:33.096Z",
+    "created_at": "2019-07-04T06:37:33.096Z",
+    "model_type": "User",
+    "_id": "user-sw07"
+  },
+  {
+    "disabled": false,
+    "full_name": "SW08",
+    "user_name": "sw08",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-gbv-caseworker"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:38:09.970Z",
+    "created_at": "2019-07-04T06:38:09.971Z",
+    "model_type": "User",
+    "_id": "user-sw08"
+  },
+  {
+    "disabled": false,
+    "full_name": "SW09",
+    "user_name": "sw09",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-gbv-caseworker"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:39:09.493Z",
+    "created_at": "2019-07-04T06:39:09.493Z",
+    "model_type": "User",
+    "_id": "user-sw09"
+  },
+  {
+    "disabled": false,
+    "full_name": "SW10",
+    "user_name": "sw10",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-haq",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-gbv-caseworker"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cp"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-04T06:39:41.057Z",
+    "created_at": "2019-07-04T06:39:41.057Z",
+    "model_type": "User",
+    "_id": "user-sw10"
+  },
+  {
+    "disabled": false,
+    "full_name": "System Superuser",
+    "user_name": "primero",
+    "verified": true,
+    "code": null,
+    "phone": null,
+    "email": "primero@primero.com",
+    "organization": "agency-unicef",
+    "position": null,
+    "location": null,
+    "role_ids": [
+      "role-superuser"
+    ],
+    "time_zone": "UTC",
+    "locale": "en",
+    "module_ids": [
+      "primeromodule-cp",
+      "primeromodule-gbv"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp",
+      "usergroup-primero-ftr",
+      "usergroup-primero-gbv"
+    ],
+    "is_manager": true,
+    "send_mail": true,
+    "agency_office": null,
+    "updated_at": "2019-04-22T08:55:26.191Z",
+    "created_at": "2019-04-22T08:55:26.191Z",
+    "model_type": "User",
+    "_id": "user-primero"
+  }
+]
