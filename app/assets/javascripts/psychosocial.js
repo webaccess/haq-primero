@@ -12,13 +12,6 @@ $(document).ready(function(){
             sf.hide();
             ab.hide();
 
-        } 
-    });
-
-    $("#subform_cp_psychosocial_needs_status_subform_type_of_need_add_button").click(function(){	
-            var sjdfsk = document.getElementsByName("child[cp_psychosocial_needs_status_subform_type_of_need][0][tick_one_educational_need]");
-            console.log(sjdfsk);
-             
-
+        }
     });
 });
